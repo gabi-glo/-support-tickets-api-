@@ -59,7 +59,7 @@ Você pode testar os endpoints usando o **Insomnia** ou **Postman**.
 | `PUT` | `/tickets/:id` | Atualizar um ticket |
 | `DELETE` | `/tickets/:id` | Deletar um ticket |
 
-> 💡 Se você exportar suas requisições do Insomnia, pode adicionar o arquivo `insomnia.json` na raiz do projeto para facilitar os testes.
+
 
 ## 📚 Aprendizados
 
