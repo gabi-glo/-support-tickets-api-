@@ -1,8 +1,7 @@
 
 ---
 
-## 📋 **README.md - Versão para copiar e colar no GitHub**
-
+## 📋 **README.md 
 ```
 # 🎫 Support Tickets API
 
